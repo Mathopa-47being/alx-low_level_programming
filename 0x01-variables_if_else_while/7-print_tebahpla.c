@@ -10,7 +10,7 @@
 
 	for (ch = 'z'; ch >= 'a'; ch--)
 	{
-		putchar('\n');
+		putchar(ch);
 	}
 	putchar('\n');
 	return (0);
