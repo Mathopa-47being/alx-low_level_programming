@@ -4,8 +4,8 @@
  * main - prints numbers between 0 and 9 and letters between A to F
  * Return: Always 0 (Success)
  */
-{
 	int main(void)
+{
 
 	int i;
 
