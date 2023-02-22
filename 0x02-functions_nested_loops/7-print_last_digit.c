@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * main - check the code
- * Return: Always 0
+ * print_last_digit - prints the last digit
+ * @n: the number
+ * Return: value of the last digit
  */
 	int main(void)
 {
