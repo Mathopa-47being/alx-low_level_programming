@@ -23,6 +23,5 @@
 				_putchar(' ');
 				else
 					_putchar((prod / 10));
-				+ '0');
 	}
 }
