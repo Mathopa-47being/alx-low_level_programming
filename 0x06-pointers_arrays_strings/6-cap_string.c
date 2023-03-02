@@ -16,18 +16,18 @@
 					index++;
 
 					if (str[index - 1] == ' ' ||
-					if (str[index - 1] == '\t' ||
-					if (str[index - 1] == '\n' ||
-					if (str[index - 1] == ',' ||
-					if (str[index - 1] == ';' ||
-					if (str[index - 1] == '.' ||
-					if (str[index - 1] == '!' ||
-					if (str[index - 1] == '?' ||
-					if (str[index - 1] == '"' ||
-					if (str[index - 1] == '(' ||
-					if (str[index - 1] == ')' ||
-					if (str[index - 1] == '{' ||
-					if (str[index - 1] == '}' ||
+					str[index - 1] == '\t' ||
+					str[index - 1] == '\n' ||
+					str[index - 1] == ',' ||
+					str[index - 1] == ';' ||
+					str[index - 1] == '.' ||
+					str[index - 1] == '!' ||
+					str[index - 1] == '?' ||
+					str[index - 1] == '"' ||
+					str[index - 1] == '(' ||
+					str[index - 1] == ')' ||
+					str[index - 1] == '{' ||
+					str[index - 1] == '}' ||
 					index == 0)
 						str[index] -= 32;
 
